@@ -27,3 +27,4 @@ from PIL import Image
 import numpy as np
 img = Image.open("data_generator/template.png")
 print(img.format, img.size, img.mode)
+
